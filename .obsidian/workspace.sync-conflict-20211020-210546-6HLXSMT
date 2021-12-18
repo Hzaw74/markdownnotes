@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "34b356a91fb9b986",
+    "type": "split",
+    "children": [
+      {
+        "id": "b33648d3f343f3e9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Personal/My Life in a  nutshell.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f48c182420667891",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ba3304e3a696b88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b18b58a29f0e0e2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6c64e578579455ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252,
+    "collapsed": true
+  },
+  "right": {
+    "id": "dded97de9563ec8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc8f51d4e96bdf82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5e7f3be547edb26",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Personal/My Life in a  nutshell.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eae77d222ba0ff1c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Personal/My Life in a  nutshell.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "50f214e2a9b4e508",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252,
+    "collapsed": true
+  },
+  "active": "b33648d3f343f3e9",
+  "lastOpenFiles": [
+    "Personal/My Life in a  nutshell.md",
+    "Personal/Life Design Lab/Life Design Lab.md",
+    "copy.md",
+    "Student Log.md",
+    "Daily Notes/2021-09-17.md",
+    "Personal/Goal for Life.md",
+    "Knowledge/Happiness.md",
+    "Happiness^.md",
+    "Knowledge/Dunning-Kruger Effect.md",
+    "Knowledge/Gaslighting Effect.md"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "7b30b8605cd1318b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd3c365d529a8eac",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6db12679c46a9a28",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ef8d9c19ad729926",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "e0cee3c2f3373720",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "694b5ce85f4f5ae3",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ba9af51645543f36",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8a30b57d80fa98cb",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d72ee52ceaff73fb",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "fd3c365d529a8eac",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2021-11-03 14.47.51.excalidraw.md",
+    "Excalidraw/Drawing 2021-11-03 14.47.26.excalidraw.md",
+    "Creative Writing Bootcamp/Writing Class Notes.md",
+    "Creative Writing Bootcamp/Drafts/Empathy Venn Diagram.md",
+    "Knowledge/Dunning-Kruger Effect.md",
+    "Creative Writing Bootcamp/Drafts/Cafe scene.md",
+    "Creative Writing Bootcamp/Drafts/Cafe.md",
+    "Creative Writing Bootcamp/Drafts/10 least favorite person.md",
+    "Personal/No Nut.md",
+    "Blog/Random Thoughts.md"
+  ]
+}

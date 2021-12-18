@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "34b356a91fb9b986",
+    "type": "split",
+    "children": [
+      {
+        "id": "b33648d3f343f3e9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Student Log.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c9d62e9fcfea4b1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a6d998a84af70436",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "7856decba8439685",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2124430dd9617ce4",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a9da7f7d7ad7f4de",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ee98f12ed50a3c86",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Student Log.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "307c18fdf61855cc",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Student Log.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "b33648d3f343f3e9",
+  "lastOpenFiles": [
+    "Student Log.md",
+    "Personal/My Life in a  nutshell.md",
+    "Personal/Life Design Lab/Life Design Lab.md",
+    "copy.md",
+    "Daily Notes/2021-09-17.md",
+    "Personal/Goal for Life.md",
+    "Knowledge/Happiness.md",
+    "Happiness^.md",
+    "Knowledge/Dunning-Kruger Effect.md",
+    "Knowledge/Gaslighting Effect.md"
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "7b30b8605cd1318b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b906b92d13bfcc5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Creative Writing Bootcamp/Drafts/Eavesdropping 2.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e028310b7b067a63",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1ea932ee58a48b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02da7a80d7c460a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb1fdbb95d2591f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252,
+    "collapsed": true
+  },
+  "right": {
+    "id": "da80b6ead249c8de",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e7126d52504ef29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94b316f6826c16e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Creative Writing Bootcamp/Drafts/Eavesdropping 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fdb7761c07e4409b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Creative Writing Bootcamp/Drafts/Eavesdropping 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f464573a9b7772d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252,
+    "collapsed": true
+  },
+  "active": "2b906b92d13bfcc5",
+  "lastOpenFiles": [
+    "Creative Writing Bootcamp/Drafts/Eavesdropping 2.md",
+    "Creative Writing Bootcamp/Drafts/Eavesdropping.md",
+    "Creative Writing Bootcamp/Drafts/Untitled.md",
+    "Creative Writing Bootcamp/Drafts/==ကျွန်တော်ကတော့ လောကကြီးတစ်ခုလုံးက မီးခိုးရောင်လောကကြီးလို့ ထင်တယ်။==.md",
+    "Knowledge/Polyamorous.md",
+    "Knowledge/Percentage System.md",
+    "Knowledge/Pygmalion effect.md",
+    "Knowledge/Happiness.md",
+    "Daily Notes/2021-07-16.md",
+    "Excalidraw/Drawing 2021-11-03 14.47.51.excalidraw.md"
+  ]
+}

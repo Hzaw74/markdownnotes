@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "7b30b8605cd1318b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd3c365d529a8eac",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Creative Writing Bootcamp/Drafts/Eavesdropping.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7eb4fc1cdaab10bc",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "61cdc7549a4f7c7b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "dc60b93e2bdb0f93",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "77bf69d563c3da84",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b65664974dda66b9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "56f544f9ef06adb6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Creative Writing Bootcamp/Drafts/Eavesdropping.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "07f2973aabf4d593",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Creative Writing Bootcamp/Drafts/Eavesdropping.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "fd3c365d529a8eac",
+  "lastOpenFiles": [
+    "Creative Writing Bootcamp/Drafts/Eavesdropping.md",
+    "Daily Notes/2021-07-16.md",
+    "Excalidraw/Drawing 2021-11-03 14.47.51.excalidraw.md",
+    "Excalidraw/Drawing 2021-11-03 14.47.26.excalidraw.md",
+    "Creative Writing Bootcamp/Writing Class Notes.md",
+    "Creative Writing Bootcamp/Drafts/Empathy Venn Diagram.md",
+    "Knowledge/Dunning-Kruger Effect.md",
+    "Creative Writing Bootcamp/Drafts/Cafe scene.md",
+    "Creative Writing Bootcamp/Drafts/Cafe.md",
+    "Creative Writing Bootcamp/Drafts/10 least favorite person.md"
+  ]
+}
