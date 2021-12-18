@@ -1,2 +1,0 @@
-# Pygmalion effect
-
